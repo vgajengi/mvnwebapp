@@ -46,7 +46,7 @@
                   </form>
                 </div>
               </nav>
-    <h1>Welcome to Lokesh World!</h1>
+    <h1>Welcome to vijay World!</h1>
     <div class="card" style="width: 18rem;">
             <img class="card-img-top" src=".../100px180/" alt="Card image cap">
             <div class="card-body">
