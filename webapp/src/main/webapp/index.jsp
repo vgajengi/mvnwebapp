@@ -10,13 +10,11 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </head>
 <body>
-  
-  <div class="container">
     <header>
         <nav class="navbar navbar-expand-sm bg-primary  ">
             <!-- Brand/logo -->
             <a class="navbar-brand" href="#">
-              <img src="bird.jpg" alt="logo" style="width:40px;">
+              <img src="img/bird.jpg" alt="logo" style="width:40px;">
             </a>
             
             <!-- Links -->
@@ -33,6 +31,8 @@
             </ul>
           </nav>
     </header>
+  <div class="container">
+    
     <section>
         <div id="demo" class="carousel slide" data-ride="carousel">
             <ul class="carousel-indicators">
@@ -42,21 +42,21 @@
             </ul>
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img src="na1.jpg" alt="Los Angeles" width="1100" height="500">
+                <img src="img/na1.jpg" alt="Los Angeles" width="1100" height="500">
                 <div class="carousel-caption">
                   <h3>Los Angeles</h3>
                   <p>We had such a great time in LA!</p>
                 </div>   
               </div>
               <div class="carousel-item">
-                <img src="na2.jpg" alt="Chicago" width="1100" height="500">
+                <img src="img/na2.jpg" alt="Chicago" width="1100" height="500">
                 <div class="carousel-caption">
                   <h3>Chicago</h3>
                   <p>Thank you, Chicago!</p>
                 </div>   
               </div>
               <div class="carousel-item">
-                <img src="na3.jpg" alt="New York" width="1100" height="500">
+                <img src="img/na3.jpg" alt="New York" width="1100" height="500">
                 <div class="carousel-caption">
                   <h3>New York</h3>
                   <p>We love the Big Apple!</p>
@@ -71,7 +71,11 @@
             </a>
           </div>
     </section>
-    <!-- Footer -->
+   
+    
+   </div>
+
+   <!-- Footer -->
 <footer class="page-footer font-small blue pt-4">
 
     <!-- Footer Links -->
@@ -154,10 +158,6 @@
   
   </footer>
   <!-- Footer -->
-    
-   </div>
-
-  
  
 
 </body>
