@@ -10,6 +10,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </head>
 <body>
+    <div class="container-fluid">
     <header>
         <nav class="navbar navbar-expand-sm bg-primary  ">
             <!-- Brand/logo -->
@@ -31,7 +32,7 @@
             </ul>
           </nav>
     </header>
-  <div class="container">
+  
     
     <section>
         <div id="demo" class="carousel slide" data-ride="carousel">
