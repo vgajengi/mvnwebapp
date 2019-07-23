@@ -44,21 +44,21 @@
             </ul>
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img src="img/na1.jpg" alt="Los Angeles" width="1100" height="500">
+                <img src="img/nat1.jpg" alt="Los Angeles" width="1100" height="500">
                 <div class="carousel-caption">
                   <h3>Los Angeles</h3>
                   <p>We had such a great time in LA!</p>
                 </div>   
               </div>
               <div class="carousel-item">
-                <img src="img/na2.jpg" alt="Chicago" width="1100" height="500">
+                <img src="img/nat2.jpg" alt="Chicago" width="1100" height="500">
                 <div class="carousel-caption">
                   <h3>Chicago</h3>
                   <p>Thank you, Chicago!</p>
                 </div>   
               </div>
               <div class="carousel-item">
-                <img src="img/na3.jpg" alt="New York" width="1100" height="500">
+                <img src="img/nat3.jpg" alt="New York" width="1100" height="500">
                 <div class="carousel-caption">
                   <h3>New York</h3>
                   <p>We love the Big Apple!</p>
@@ -87,11 +87,11 @@
       <div class="row">
   
         <!-- Grid column -->
-        <div class="col-md-6 mt-md-0 mt-3 footer-text">
+        <div class="col-md-6 mt-md-0 mt-3 ">
   
           <!-- Content -->
-          <h5 class="text-uppercase">Footer Content</h5>
-          <p>Here you can use rows and columns to organize your footer content.</p>
+          <h5 class="text-uppercase footer-text">Footer Content</h5>
+          <p class="footer-text">Here you can use rows and columns to organize your footer content.</p>
   
         </div>
         <!-- Grid column -->
@@ -99,12 +99,12 @@
         <hr class="clearfix w-100 d-md-none pb-3">
   
         <!-- Grid column -->
-        <div class="col-md-3 mb-md-0 mb-3 footer-text">
+        <div class="col-md-3 mb-md-0 mb-3 ">
   
           <!-- Links -->
-          <h5 class="text-uppercase">Links</h5>
+          <h5 class="text-uppercase footer-text">Links</h5>
   
-          <ul class="list-unstyled">
+          <ul class="list-unstyled footer-text">
             <li>
               <a href="#!">Link 1</a>
             </li>
@@ -123,12 +123,12 @@
         <!-- Grid column -->
   
         <!-- Grid column -->
-        <div class="col-md-3 mb-md-0 mb-3 footer-text">
+        <div class="col-md-3 mb-md-0 mb-3 ">
   
           <!-- Links -->
-          <h5 class="text-uppercase">Links</h5>
+          <h5 class="text-uppercase footer-text">Links</h5>
   
-          <ul class="list-unstyled">
+          <ul class="list-unstyled footer-text">
             <li>
               <a href="#!">Link 1</a>
             </li>
