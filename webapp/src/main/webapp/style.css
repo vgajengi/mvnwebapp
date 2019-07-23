@@ -8,11 +8,18 @@ font-size: 14px;
 .carousel{
     margin: 2% 0%;
 }
+.carousel > img{
+    height: 400px !important;
+}
 .blue{
     background-color: blue;
     margin: 2% 0%;
  }
 .footer-text{
+    color: #ffffff;
+    font-size: 14px;
+}
+.text-uppercase{
     color: #ffffff;
     font-size: 14px;
 }

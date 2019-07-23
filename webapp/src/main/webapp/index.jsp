@@ -44,14 +44,14 @@
             </ul>
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img src="img/nat1.jpg" alt="Los Angeles" width="1100" height="500">
+                <img src="img/nat2.jpg" alt="Los Angeles" width="1100" height="500">
                 <div class="carousel-caption">
                   <h3>Los Angeles</h3>
                   <p>We had such a great time in LA!</p>
                 </div>   
               </div>
               <div class="carousel-item">
-                <img src="img/nat2.jpg" alt="Chicago" width="1100" height="500">
+                <img src="img/nat1.jpg" alt="Chicago" width="1100" height="500">
                 <div class="carousel-caption">
                   <h3>Chicago</h3>
                   <p>Thank you, Chicago!</p>
@@ -90,7 +90,7 @@
         <div class="col-md-6 mt-md-0 mt-3 ">
   
           <!-- Content -->
-          <h5 class="text-uppercase footer-text">Footer Content</h5>
+          <h5 class="text-uppercase ">Footer Content</h5>
           <p class="footer-text">Here you can use rows and columns to organize your footer content.</p>
   
         </div>
