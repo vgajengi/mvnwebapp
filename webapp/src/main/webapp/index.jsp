@@ -12,11 +12,11 @@
 </head>
 <body>
     <div class="container-fluid">
-    <header>
+    <header class="hd">
         <nav class="navbar navbar-expand-sm bg-primary  ">
             <!-- Brand/logo -->
             <a class="navbar-brand" href="#">
-              <img src="img/bird.jpg" alt="logo" style="width:40px;">
+              <img src="img/logo.png" alt="logo" style="width:40px;">
             </a>
             
             <!-- Links -->
@@ -35,7 +35,7 @@
     </header>
   
     
-    <section>
+    <section class="carousel">
         <div id="demo" class="carousel slide" data-ride="carousel">
             <ul class="carousel-indicators">
               <li data-target="#demo" data-slide-to="0" class="active"></li>
@@ -87,7 +87,7 @@
       <div class="row">
   
         <!-- Grid column -->
-        <div class="col-md-6 mt-md-0 mt-3">
+        <div class="col-md-6 mt-md-0 mt-3 footer-text">
   
           <!-- Content -->
           <h5 class="text-uppercase">Footer Content</h5>
@@ -99,7 +99,7 @@
         <hr class="clearfix w-100 d-md-none pb-3">
   
         <!-- Grid column -->
-        <div class="col-md-3 mb-md-0 mb-3">
+        <div class="col-md-3 mb-md-0 mb-3 footer-text">
   
           <!-- Links -->
           <h5 class="text-uppercase">Links</h5>
@@ -123,7 +123,7 @@
         <!-- Grid column -->
   
         <!-- Grid column -->
-        <div class="col-md-3 mb-md-0 mb-3">
+        <div class="col-md-3 mb-md-0 mb-3 footer-text">
   
           <!-- Links -->
           <h5 class="text-uppercase">Links</h5>
@@ -153,7 +153,7 @@
     <!-- Footer Links -->
   
     <!-- Copyright -->
-    <div class="footer-copyright text-center py-3">© 2019 Copyright:
+    <div class="footer-copyright text-center py-3 footer-text">© 2019 Copyright:
       <a href="https://lokesh-19a59.firebaseapp.com/">www.Lokesh.com</a>
     </div>
     <!-- Copyright -->

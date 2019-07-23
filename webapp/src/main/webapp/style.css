@@ -2,8 +2,18 @@
 color: #ffffff;
 font-size: 14px;
 }
+.hd{
+    margin: 2% 0%
+
+}
+.carousel{
+}
 .blue{
     background-color: blue;
+    margin: 2% 0%
+
+ }
+.footer-text{
     color: #ffffff;
     font-size: 14px;
 }
