@@ -9,6 +9,7 @@ font-size: 14px;
     margin: 2% 0%;
 }
 .carousel > img{
+    width: 100% !important;
     height: 400px !important;
 }
 .blue{
