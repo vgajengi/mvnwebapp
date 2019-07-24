@@ -10,9 +10,9 @@ font-size: 18px;
 }
 .carousel > img{
     width: 100% !important;
-    height: 400px !important;
+    height: 500px !important;
 }
-.top {
+.top{
     color: blue;
     font-size: 30px;
 }

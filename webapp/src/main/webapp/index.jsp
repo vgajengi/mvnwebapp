@@ -15,14 +15,14 @@
          <nav class="navbar navbar-expand-lg navbar-primary bg-primary">
             <!-- Brand/logo -->
             <a class="navbar-brand" href="#">
-                <img src="img/logo.png" alt="logo" style="width:40px;">
+                <img src="img/clogo.png" alt="logo" style="width:40px;">
               </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
            <!-- Links -->
-            <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-              <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+            <div class="collapse navbar-collapse " id="navbarTogglerDemo02">
+              <ul class="navbar-nav mr-auto mt-2 mt-lg-0 justify-content-end">
                 <li class="nav-item active">
                   <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
                 </li>
@@ -36,10 +36,10 @@
                     <a class="nav-link" href="#">Contact</a>
                   </li>
               </ul>
-              <form class="form-inline my-2 my-lg-0">
+              <!-- <form class="form-inline my-2 my-lg-0">
                 <input class="form-control mr-sm-2" type="search" placeholder="Search">
-                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-              </form>
+                <button class="btn btn-light my-2 my-sm-0" type="submit">Search</button>
+              </form> -->
             </div>
           </nav>
     <div class="carousel">
@@ -51,21 +51,21 @@
             </ul>
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img src="img/nat2.jpg" alt="Los Angeles" width="100%" height="400">
+                <img src="img/nat2.jpg" alt="Los Angeles"  >
                 <div class="carousel-caption">
                   <h3>Los Angeles</h3>
                   <p>We had such a great time in LA!</p>
                 </div>   
               </div>
               <div class="carousel-item">
-                <img src="img/nat1.jpg" alt="Chicago" width="100%" height="400">
+                <img src="img/nat1.jpg" alt="Chicago"  >
                 <div class="carousel-caption">
                   <h3>Chicago</h3>
                   <p>Thank you, Chicago!</p>
                 </div>   
               </div>
               <div class="carousel-item">
-                <img src="img/nat3.jpg" alt="New York" width="100%" height="400">
+                <img src="img/nat3.jpg" alt="New York"  >
                 <div class="carousel-caption">
                   <h3>New York</h3>
                   <p>We love the Big Apple!</p>
@@ -99,7 +99,7 @@
               </div>
             </div>
             <div class="card">
-              <img class="card-img-top" src="..." alt="Card image cap">
+              <img class="card-img-top" src="img/Mum.jpg" alt="Card image cap">
               <div class="card-body">
                 <h5 class="card-title">Mumbai</h5>
                 <p class="card-text">A microcosm of India, Mumbai is a melting pot of cultures, professions, and food! You’ll find everything here – incredible street food, the best fashion labels, and movie stars.</p>
