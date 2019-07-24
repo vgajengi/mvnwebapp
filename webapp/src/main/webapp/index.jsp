@@ -11,31 +11,38 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </head>
 <body>
-    <div class="container-fluid">
-    <header class="hd">
-        <nav class="navbar navbar-expand-sm bg-primary  ">
+  <div class="container-fluid">
+         <nav class="navbar navbar-expand-lg navbar-primary bg-primary">
             <!-- Brand/logo -->
             <a class="navbar-brand" href="#">
-              <img src="img/logo.png" alt="logo" style="width:40px;">
-            </a>
-            
-            <!-- Links -->
-            <ul class="navbar-nav">
-              <li class="nav-item">
-                <a class="nav-link" href="#">Home</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">About</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">Contact</a>
-              </li>
-            </ul>
+                <img src="img/logo.png" alt="logo" style="width:40px;">
+              </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+           <!-- Links -->
+            <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+              <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                <li class="nav-item active">
+                  <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Services </a>
+                  </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">About </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Contact</a>
+                  </li>
+              </ul>
+              <form class="form-inline my-2 my-lg-0">
+                <input class="form-control mr-sm-2" type="search" placeholder="Search">
+                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+              </form>
+            </div>
           </nav>
-    </header>
-  
-    
-    <section class="carousel">
+    <div class="carousel">
         <div id="demo" class="carousel slide" data-ride="carousel">
             <ul class="carousel-indicators">
               <li data-target="#demo" data-slide-to="0" class="active"></li>
@@ -72,13 +79,38 @@
               <span class="carousel-control-next-icon"></span>
             </a>
           </div>
-    </section>
+        </div>
+        <div class="top">Top Cities</div>
+         <div class="card-deck">
+            <div class="card">
+              <img class="card-img-top" src="img/bang.jpg" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">Bangalore</h5>
+                <p class="card-text">Quaint neighbourhoods, craft beers, adventure sports live comfortably together. Throw in green havens within driving distance, and it’s everything we love about Bangalore.</p>
+                <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
+              </div>
+            </div>
+            <div class="card">
+              <img class="card-img-top" src="img/goa.jpg" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">Goa</h5>
+                <p class="card-text">Goa might be India’s smallest state but it’s jam packed with history, churches, an incredible culinary scene and some of the most scenic beaches in the country.</p>
+                <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
+              </div>
+            </div>
+            <div class="card">
+              <img class="card-img-top" src="..." alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">Mumbai</h5>
+                <p class="card-text">A microcosm of India, Mumbai is a melting pot of cultures, professions, and food! You’ll find everything here – incredible street food, the best fashion labels, and movie stars.</p>
+                <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
+              </div>
+            </div>
+          </div>
    
-    
-   </div>
 
    <!-- Footer -->
-<footer class="page-footer font-small blue pt-4">
+  <div class="page-footer font-small blue pt-4">
 
     <!-- Footer Links -->
     <div class="container-fluid text-center text-md-left">
@@ -154,13 +186,13 @@
   
     <!-- Copyright -->
     <div class="footer-copyright text-center py-3 footer-text">© 2019 Copyright:
-      <a href="https://lokesh-19a59.firebaseapp.com/">www.Lokesh.com</a>
+      <a href="https://lokesh-19a59.firebaseapp.com/" class="footer-text">www.Lokesh.com</a>
     </div>
     <!-- Copyright -->
   
-  </footer>
+  </div>
   <!-- Footer -->
- 
+ </div>
 
 </body>
 </html>

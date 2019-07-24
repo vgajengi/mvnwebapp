@@ -1,6 +1,6 @@
 .nav-link{
-color: #000000;
-font-size: 14px;
+color: #ffffff;
+font-size: 18px;
 }
 .hd{
     margin: 2% 0%;
@@ -12,6 +12,10 @@ font-size: 14px;
     width: 100% !important;
     height: 400px !important;
 }
+.top {
+    color: blue;
+    font-size: 30px;
+}
 .blue{
     background-color: blue;
     margin: 2% 0%;
@@ -19,6 +23,10 @@ font-size: 14px;
 .footer-text{
     color: #ffffff;
     font-size: 14px;
+}
+ul a{
+    font-size: 14px;
+    color:#ffffff;
 }
 .text-uppercase{
     color: #ffffff;
