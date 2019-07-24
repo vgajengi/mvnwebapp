@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../webapp/style.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
@@ -51,21 +51,21 @@
             </ul>
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img src="img/nat2.jpg" alt="Los Angeles"  >
+                <img src="img/nat2.jpg" alt="Los Angeles"  class="carousel-img">
                 <div class="carousel-caption">
                   <h3>Los Angeles</h3>
                   <p>We had such a great time in LA!</p>
                 </div>   
               </div>
               <div class="carousel-item">
-                <img src="img/nat1.jpg" alt="Chicago"  >
+                <img src="img/nat1.jpg" alt="Chicago"  class="carousel-img">
                 <div class="carousel-caption">
                   <h3>Chicago</h3>
                   <p>Thank you, Chicago!</p>
                 </div>   
               </div>
               <div class="carousel-item">
-                <img src="img/nat3.jpg" alt="New York"  >
+                <img src="img/nat3.jpg" alt="New York" class="carousel-img" >
                 <div class="carousel-caption">
                   <h3>New York</h3>
                   <p>We love the Big Apple!</p>
@@ -136,7 +136,7 @@
           <!-- Links -->
           <h5 class="text-uppercase footer-text">Links</h5>
   
-          <ul class="list-unstyled footer-text">
+          <ul class="list-unstyled ">
             <li>
               <a href="#!">Link 1</a>
             </li>
@@ -160,7 +160,7 @@
           <!-- Links -->
           <h5 class="text-uppercase footer-text">Links</h5>
   
-          <ul class="list-unstyled footer-text">
+          <ul class="list-unstyled ">
             <li>
               <a href="#!">Link 1</a>
             </li>
@@ -185,7 +185,7 @@
     <!-- Footer Links -->
   
     <!-- Copyright -->
-    <div class="footer-copyright text-center py-3 footer-text">© 2019 Copyright:
+    <div class="footer-copyright text-center py-3 footer-text"> © 2019 Copyright:
       <a href="https://lokesh-19a59.firebaseapp.com/" class="footer-text">www.Lokesh.com</a>
     </div>
     <!-- Copyright -->

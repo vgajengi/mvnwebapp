@@ -8,7 +8,7 @@ font-size: 18px;
 .carousel{
     margin: 2% 0%;
 }
-.carousel > img{
+.carousel-img{
     width: 100% !important;
     height: 500px !important;
 }
@@ -24,7 +24,7 @@ font-size: 18px;
     color: #ffffff;
     font-size: 14px;
 }
-ul a{
+ul li a{
     font-size: 14px;
     color:#ffffff;
 }
