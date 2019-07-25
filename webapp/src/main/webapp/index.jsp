@@ -24,16 +24,16 @@
             <div class="collapse navbar-collapse " id="navbarTogglerDemo02">
               <ul class="navbar-nav mr-auto mt-2 mt-lg-0 justify-content-end">
                 <li class="nav-item active">
-                  <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                  <a class="nav-link" href="../webapp/index.jsp">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Services </a>
+                    <a class="nav-link" href="../webapp/services.jsp">Services </a>
                   </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">About </a>
+                  <a class="nav-link" href="../webapp/about.jsp">About </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Contact</a>
+                    <a class="nav-link" href="../webapp/contact.jsp">Contact</a>
                   </li>
               </ul>
               <!-- <form class="form-inline my-2 my-lg-0">
