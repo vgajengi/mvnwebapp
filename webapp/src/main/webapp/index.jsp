@@ -107,6 +107,32 @@
               </div>
             </div>
           </div>
+          <div class="card-deck">
+              <div class="card">
+                <img class="card-img-top" src="img/bang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title">Bangalore</h5>
+                  <p class="card-text">Quaint neighbourhoods, craft beers, adventure sports live comfortably together. Throw in green havens within driving distance, and it’s everything we love about Bangalore.</p>
+                  <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
+                </div>
+              </div>
+              <div class="card">
+                <img class="card-img-top" src="img/goa.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title">Goa</h5>
+                  <p class="card-text">Goa might be India’s smallest state but it’s jam packed with history, churches, an incredible culinary scene and some of the most scenic beaches in the country.</p>
+                  <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
+                </div>
+              </div>
+              <div class="card">
+                <img class="card-img-top" src="img/Mum.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title">Mumbai</h5>
+                  <p class="card-text">A microcosm of India, Mumbai is a melting pot of cultures, professions, and food! You’ll find everything here – incredible street food, the best fashion labels, and movie stars.</p>
+                  <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
+                </div>
+              </div>
+            </div>
    
 
    <!-- Footer -->
