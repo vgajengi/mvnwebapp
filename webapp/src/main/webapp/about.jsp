@@ -14,7 +14,7 @@
         <div class="container-fluid">
                 <nav class="navbar navbar-expand-lg navbar-primary bg-primary">
                         <!-- Brand/logo -->
-                        <a class="navbar-brand" href="#">
+                        <a class="navbar-brand" href="../webapp/index.jsp">
                             <img src="img/clogo.png" alt="logo" style="width:40px;">
                           </a>
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
@@ -43,6 +43,89 @@
                         </div>
                       </nav>
                       <h1>About page</h1>
+                      <!-- Footer -->
+  <div class="page-footer font-small blue pt-4">
+
+        <!-- Footer Links -->
+        <div class="container-fluid text-center text-md-left">
+      
+          <!-- Grid row -->
+          <div class="row">
+      
+            <!-- Grid column -->
+            <div class="col-md-6 mt-md-0 mt-3 ">
+      
+              <!-- Content -->
+              <h5 class="text-uppercase ">Footer Content</h5>
+              <p class="footer-text">Here you can use rows and columns to organize your footer content.</p>
+      
+            </div>
+            <!-- Grid column -->
+      
+            <hr class="clearfix w-100 d-md-none pb-3">
+      
+            <!-- Grid column -->
+            <div class="col-md-3 mb-md-0 mb-3 ">
+      
+              <!-- Links -->
+              <h5 class="text-uppercase footer-text">Links</h5>
+      
+              <ul class="list-unstyled ">
+                <li>
+                  <a href="#!">Link 1</a>
+                </li>
+                <li>
+                  <a href="#!">Link 2</a>
+                </li>
+                <li>
+                  <a href="#!">Link 3</a>
+                </li>
+                <li>
+                  <a href="#!">Link 4</a>
+                </li>
+              </ul>
+      
+            </div>
+            <!-- Grid column -->
+      
+            <!-- Grid column -->
+            <div class="col-md-3 mb-md-0 mb-3 ">
+      
+              <!-- Links -->
+              <h5 class="text-uppercase footer-text">Links</h5>
+      
+              <ul class="list-unstyled ">
+                <li>
+                  <a href="#!">Link 1</a>
+                </li>
+                <li>
+                  <a href="#!">Link 2</a>
+                </li>
+                <li>
+                  <a href="#!">Link 3</a>
+                </li>
+                <li>
+                  <a href="#!">Link 4</a>
+                </li>
+              </ul>
+      
+            </div>
+            <!-- Grid column -->
+      
+          </div>
+          <!-- Grid row -->
+      
+        </div>
+        <!-- Footer Links -->
+      
+        <!-- Copyright -->
+        <div class="footer-copyright text-center py-3 footer-text"> © 2019 Copyright:
+          <a href="https://lokesh-19a59.firebaseapp.com/" class="footer-text">www.Lokesh.com</a>
+        </div>
+        <!-- Copyright -->
+      
+      </div>
+      <!-- Footer -->
     
         </div>
             

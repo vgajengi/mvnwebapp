@@ -14,7 +14,7 @@
   <div class="container-fluid">
          <nav class="navbar navbar-expand-lg navbar-primary bg-primary">
             <!-- Brand/logo -->
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="../webapp/index.jsp">
                 <img src="img/clogo.png" alt="logo" style="width:40px;">
               </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
@@ -22,7 +22,7 @@
             </button>
            <!-- Links -->
             <div class="collapse navbar-collapse " id="navbarTogglerDemo02">
-              <ul class="navbar-nav mr-auto mt-2 mt-lg-0 justify-content-end">
+              <ul class="nav justify-content-end  mr-auto mt-2 mt-lg-0  ">
                 <li class="nav-item active">
                   <a class="nav-link" href="../webapp/index.jsp">Home <span class="sr-only">(current)</span></a>
                 </li>
