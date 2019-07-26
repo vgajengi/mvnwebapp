@@ -92,7 +92,7 @@
             <div class="col-md-3 mb-md-0 mb-3 ">
       
               <!-- Links -->
-              <h5 class="text-uppercase footer-text">Links</h5>
+              <h5 class="text-uppercase footer-text">Arun</h5>
       
               <ul class="list-unstyled ">
                 <li>
