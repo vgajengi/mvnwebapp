@@ -22,7 +22,10 @@
                     </button>
                    <!-- Links -->
                     <div class="collapse navbar-collapse " id="navbarTogglerDemo02">
-                      <ul class="navbar-nav mr-auto mt-2 mt-lg-0 justify-content-end">
+                      <ul class="navbar-nav  mr-auto mt-2 mt-lg-0  ">
+                
+                      </ul>
+                      <ul class="navbar-nav">
                         <li class="nav-item active">
                           <a class="nav-link" href="../webapp/index.jsp">Home <span class="sr-only">(current)</span></a>
                         </li>
